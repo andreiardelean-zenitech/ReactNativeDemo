@@ -1,0 +1,36 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "events": [
+    {
+      "title": "Weekend",
+      "date": "2020-07-24T15:00:59.000Z",
+      "id": "66acd989-1bee-4be7-902c-616c31f26da0"
+    },
+    {
+      "title": "Christmas Day",
+      "date": "2020-12-25T10:56:27.172Z",
+      "id": "4915d2ac-ab68-4fa8-9ee7-03409ce4093c"
+    },
+    {
+      "title": "New Year's Eve 2021",
+      "date": "2020-12-30T22:00:30.000Z",
+      "id": "477cf311-86bd-4d16-824a-0f45f5b8bfad"
+    },
+    {
+      "title": "New Year's Day 2021",
+      "date": "2020-12-31T22:00:44.000Z",
+      "id": "322d54de-9f43-4a64-b22c-aa1bbe4b2853"
+    },
+    {
+      "title": "Some event",
+      "date": "2020-11-20T20:45:57.000Z",
+      "id": "262d0aa1-f9b5-426a-b29c-55b0d9acee44"
+    }
+  ]
+}
